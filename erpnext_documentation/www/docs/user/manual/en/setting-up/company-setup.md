@@ -43,7 +43,7 @@ Once you build a company tree, ERPNext will validate if the accounts of the chil
 * **Parent Company**: If this is a child company, set the parent from this field i.e., select a group company this company belongs to. If a parent company is set, the chart of accounts for the new company you're creating will be created based on the selected parent company.
 
 ### 1.3 Chart of Accounts
-For each Company, the master for Chart of Accounts is maintained separately. This allows you to maintain separate accounting for each company as per the legal requirements. You can also import chart of accounts using the [Charts Of Accounts Importer](/docs/user/manual/en/setting-up/chart-of-accounts-importer).
+For each Company, the master for Chart of Accounts is maintained separately. This allows you to maintain separate accounting for each company as per the legal requirements. You can also import chart of accounts using the [Chart Importer](/docs/user/manual/en/setting-up/chart-importer).
 
 <img class="screenshot" alt="Company Chart of Accounts" src="{{docs_base_url}}/assets/img/accounts/company-coa.png">
 
@@ -198,7 +198,7 @@ And you're done. The master data like Item, Account, Employee, BOM etc. will rem
 ### 3. Related Topics
 1. [Setting Up Taxes](/docs/user/manual/en/setting-up/setting-up-taxes)
 1. [System Settings](/docs/user/manual/en/setting-up/settings/system-settings)
-1. [Charts Of Accounts Importer](/docs/user/manual/en/setting-up/chart-of-accounts-importer)
+1. [Chart Importer](/docs/user/manual/en/setting-up/chart-importer)
 1. [Users and Permissions](/docs/user/manual/en/setting-up/users-and-permissions)
 1. [Adding Users](/docs/user/manual/en/setting-up/users-and-permissions/adding-users)
 1. [Letter Head](/docs/user/manual/en/setting-up/print/letter-head)

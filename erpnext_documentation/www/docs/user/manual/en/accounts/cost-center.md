@@ -53,11 +53,13 @@ To access the Chart of Cost Centers, go to:
 > Home > Accounting > Budget and Cost Center > Chart of Cost Centers
 
 ## 2. How to set up Chart of Cost Centers
-1. Go to the Chart of Cost Centers.
-1. Add region-wise nodes.
+1. Go to the Chart of Cost Centers (see screenshot below).
+1. Add region-wise nodes (if you are splitting your income/expenses geographically).
 1. Add other nodes as per your needs.
 
 Selecting a different Company will display the Cost Centers for that Company.
+
+Alternately, especially if you have many Cost Centers and you have not yet entered any transactions into your ledger, you may want to import your Cost Centers with the [Chart Importer](/docs/user/manual/en/setting-up/chart-importer).
 
 <img class="screenshot" alt="Cost Center" src="{{docs_base_url}}/assets/img/accounts/chart-of-cost-center.png"> 
 
@@ -65,3 +67,4 @@ Selecting a different Company will display the Cost Centers for that Company.
 1. [Budgeting](/docs/user/manual/en/accounts/budgeting)
 1. [Sales Invoice](/docs/user/manual/en/accounts/sales-invoice)
 1. [Purchase Invoice](/docs/user/manual/en/accounts/purchase-invoice)
+1. [Chart Importer](/docs/user/manual/en/setting-up/chart-importer)

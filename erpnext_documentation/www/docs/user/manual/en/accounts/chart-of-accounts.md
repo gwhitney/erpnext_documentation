@@ -34,7 +34,7 @@ To access the Chart of Accounts list, go to:
 > Home > Accounting > Accounting Masters > Chart of Accounts
 
 ## 1. How to Create/Edit Accounts
-ERPNext comes with a standard set Chart of Accounts. Instead of creating/modifying, you can also use the [Chart of Accounts Importer](/docs/user/manual/en/setting-up/chart-of-accounts-importer) tool. Note that the existing Chart of Accounts will be overwritten when this tool is used.
+ERPNext comes with a standard set Chart of Accounts. Instead of creating/modifying, you can also use the [Chart Importer](/docs/user/manual/en/setting-up/chart-importer) tool. Note that the existing Chart of Accounts will be overwritten when this tool is used.
 
 1. Go to the Chart of Accounts list.
  

@@ -2,6 +2,7 @@
 *.pyc
 *.egg-info
 *.swp
+*~
 __pycache__
 tags
 erpnext_documentation/docs/current

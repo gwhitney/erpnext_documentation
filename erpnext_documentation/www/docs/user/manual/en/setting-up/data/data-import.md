@@ -151,5 +151,5 @@ then open it in Notepad, then save as “UTF-8”. (Or upgrade your Excel!)
 
 ## 7. Related Topics
 
-1. [Charts Of Accounts Importer](/docs/user/manual/en/setting-up/chart-of-accounts-importer)
+1. [Chart Importer](/docs/user/manual/en/setting-up/chart-importer)
 1. [Data Export](/docs/user/manual/en/setting-up/data/data-export)

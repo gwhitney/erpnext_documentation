@@ -20,7 +20,7 @@ You'll find the global configuration options here, for module-wise setup, visit 
 ### 1.2 Data Import
 1. [Data Import](/docs/user/manual/en/setting-up/data/data-import)
 1. [Data Export](/docs/user/manual/en/setting-up/data/data-export)
-1. [Charts Of Accounts Importer](/docs/user/manual/en/setting-up/chart-of-accounts-importer)
+1. [Chart Importer](/docs/user/manual/en/setting-up/chart-importer)
 1. [Download Backup](/docs/user/manual/en/setting-up/data/download-backup)
 
 ### 1.3 User and Permissions

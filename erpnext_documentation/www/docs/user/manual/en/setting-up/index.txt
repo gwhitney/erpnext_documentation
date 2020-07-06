@@ -7,7 +7,7 @@ price-lists
 data-import
 personal-data-download
 personal-data-deletion
-chart-of-accounts-importer
+chart-importer
 users-and-permissions
 adding-users
 role-and-role-profile
